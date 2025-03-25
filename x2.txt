@@ -1,2 +1,6 @@
 This is x2 file
+<<<<<<< HEAD
 Modified in branch-1
+=======
+Modified in branch-2
+>>>>>>> branch-2
